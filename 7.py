@@ -40,8 +40,4 @@ def get_word(number):
     else:
         return "input is incorrect"
     return result
-print(result)
-
-
-
-age = print("conflict")
+age = print(result)
