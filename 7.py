@@ -40,4 +40,5 @@ def get_word(number):
     else:
         return "input is incorrect"
     return result
+
 age = print(result)
