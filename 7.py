@@ -41,5 +41,5 @@ def get_word(number):
         return "input is incorrect"
     return result
 
-
+b = 7
 
