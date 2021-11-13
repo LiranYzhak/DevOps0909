@@ -41,4 +41,4 @@ def get_word(number):
         return "input is incorrect"
     return result
 
-age = print(result)
+b = 7
